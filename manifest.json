@@ -1,0 +1,16 @@
+{
+  "short_name": "IgrejaApp",
+  "name": "Gestão Igreja - Comunidade Conectada",
+  "icons": [
+    {
+      "src": "church_app_icon_1769876616629.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
